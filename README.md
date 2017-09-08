@@ -2,7 +2,9 @@
 
 > The talks I loved watching, and think you will too.
 
-Based on the [awesome](http://github.com/sindresorhus/awesome)-list thing.
+Based on the [awesome](http://github.com/sindresorhus/awesome)-list phenomenon.
+This is a personal list only. If you have a great talk to recommend, please open
+a PR.
 
 ### Table of Contents
 
