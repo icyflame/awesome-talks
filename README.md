@@ -12,6 +12,7 @@ a PR.
 - [Internet](#internet)
 - [Startups](#startups)
 - [Bitcoin](#bitcoin)
+- [Cryptography](#cryptography)
 
 <hr>
 
@@ -21,6 +22,12 @@ a PR.
 :---: | :---: | :---
 [The Networked Society, on the Brink (20:56)](https://www.youtube.com/watch?v=_wqm6G5DjaI) | Documentary | A 21 minute documentary released in 2012, about how the Internet will change society as a whole in the next 10 years. How having plants networked, and tweeting, just as people do, will be what will make going to universities for knowledge seem weird, a few years down the line. `The Internet will change more in the next 10 years, than it did in the last 50 years. So, buckle up!`
 [WikiRebels: The Documentary (1 hour)](https://www.youtube.com/watch?v=NhTfOL9_HBE&index=1&list=PL6D8EE2E0B836F096) | Documentary featuring Julian Assange, Daniel Domscheit-Berg, et al | The roller coaster journey of WikiLeaks, the beginning, the boom, the doubts and the suspicions, the allegations on Assange. All of this, circumvented by the truth that they brought out into the world. `A democracy without transparency is not a democracy, it is just an empty word`.
+
+### Cryptography
+
+**Title of the talk** | **Speaker** | **Gist of the talk**
+:---: | :---: | :---
+[Deploying TLS 1.3: the great, the good and the bad](https://www.youtube.com/watch?v=0opakLwtPWk) | Filippo Valsorda, Nick Sullivan | An hour-long talk about the move from TLS 1.2 to 1.3, what has changed, what's better, 0-RTT resumptions, features which were being tugged along for legacy reasons which were dropped in 1.3
 
 ### Rails
 
@@ -35,6 +42,8 @@ a PR.
 
 #### Startups
 
+**Title of the talk** | **Speaker** | **Gist of the talk**
+:---: | :---: | :---
 [Dublin Web Summit (17 mins)](https://vimeo.com/146838332) | Jeff Lawson | When should you do a start-up, and the conviction you need in an idea to make it work.
 
 #### Bitcoin
